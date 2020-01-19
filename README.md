@@ -43,9 +43,14 @@ Add folders & core reference = Web Forms
 Advanced = None
 Test with Http ok (NOT HTTPS)
 
+### WindowsService1
+Windows Service (.NET Framework 4.7.2)
+Project template for Windows Services.
+
+
 ### WinForm1
 Windows Forms App (.NET Framework 4.7.2)
-Project template with a Windows Forms (WinForms) user interface
+Project template for a Windows Forms (WinForms) user interface
 
 ### ZLib
 Class Library (.NET Framework 4.7.2)
