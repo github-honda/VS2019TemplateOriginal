@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\NETStandard20",
-    "\\ZLib",
     "\\ZLib\\doc"
   ],
-  "SelectedNode": "\\ZLib\\doc",
+  "SelectedNode": "\\NETStandard20",
   "PreviewInSolutionExplorer": false
 }
