@@ -49,6 +49,7 @@ Template = Empty.
 Authentication = No Authentication
 Add folders & core reference = Web Forms
 Advanced = None
+傳統的 WebForm 網站(非MVC), 無啟動頁.
 
 ### WebForm4
 ASP.NET Web Application (.NET Framework 4.7.2)
@@ -57,5 +58,6 @@ Template = Web Forms.
 Authentication = No Authentication
 Add folders & core reference = Web Forms
 Advanced = None
-Test with Http ok (NOT HTTPS)
+傳統的 WebForm 網站(非MVC), 包含啟動頁.
+Test with Http ok (No HTTPS)
 

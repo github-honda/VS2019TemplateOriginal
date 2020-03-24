@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ZLib",
+    "\\ZLib\\ZLib"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\ZLib",
   "PreviewInSolutionExplorer": false
 }
