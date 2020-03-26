@@ -28,7 +28,6 @@ A project for creating a C# class library (.dll)
 ## Web
 ### WebForm1
 ASP.NET Web Application (.NET Framework 4.7.2)
-Project templates for creating ASP.NET applications. (Web Forms, MVC, or Web API and many other features in ASP.NET)
 Template = Web Forms.
 Authentication = No Authentication
 Add folders & core reference = Web Forms
@@ -36,7 +35,6 @@ Advanced = Configure for HTTPS
 
 ### WebForm2
 ASP.NET Web Application (.NET Framework 4.7.2)
-Project templates for creating ASP.NET applications. (Web Forms, MVC, or Web API and many other features in ASP.NET)
 Template = Empty.
 Authentication = No Authentication
 Add folders & core reference = None
@@ -44,7 +42,6 @@ Advanced = Configure for HTTPS
 
 ### WebForm3
 ASP.NET Web Application (.NET Framework 4.7.2)
-Project templates for creating ASP.NET applications. (Web Forms, MVC, or Web API and many other features in ASP.NET)
 Template = Empty.
 Authentication = No Authentication
 Add folders & core reference = Web Forms
@@ -53,7 +50,6 @@ Advanced = None
 
 ### WebForm4
 ASP.NET Web Application (.NET Framework 4.7.2)
-Project templates for creating ASP.NET applications. (Web Forms, MVC, or Web API and many other features in ASP.NET)
 Template = Web Forms.
 Authentication = No Authentication
 Add folders & core reference = Web Forms
