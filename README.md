@@ -70,5 +70,5 @@
 - Add folders & core reference = Web Forms
 - Advanced = Configure for HTTPS 
 - 測試帳號:
--- test1@some.com, aaBB11!!
--- test2@some.com, aaBB22!!
+> test1@some.com, aaBB11!!
+> test2@some.com, aaBB22!!
