@@ -32,14 +32,14 @@
 - Template = Web Forms. (包含啟動頁)
 - Authentication = No Authentication
 - Add folders & core reference = Web Forms
-- Advanced = (HTTPS)
+- Advanced = Configure for HTTPS
 
 ### WebForm2
 - **ASP.NET Web Application (.NET Framework 4.7.2)**
 - Template = Empty. (無啟動頁)
 - Authentication = No Authentication
 - Add folders & core reference = None
-- Advanced = (HTTPS)
+- Advanced = Configure for HTTPS
 
 ### WebForm3
 - **ASP.NET Web Application (.NET Framework 4.7.2)**
@@ -62,3 +62,13 @@
 - Add folders & core reference = Web Forms
 - Advanced = None
 - 可與 WebForm4 比對差異
+
+### WebForm6
+- **ASP.NET Web Application (.NET Framework 4.8)**
+- Template = Web Forms + API. (包含啟動頁) 
+- Authentication = Individual User Accounts (選擇本項目後, 會強迫開啟 HTTPS)
+- Add folders & core reference = Web Forms
+- Advanced = Configure for HTTPS 
+- 測試帳號:
+-- test1@some.com, aaBB11!!
+-- test2@some.com, aaBB22!!
