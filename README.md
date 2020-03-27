@@ -28,32 +28,36 @@ A project for creating a C# class library (.dll)
 ## Web
 ### WebForm1
 ASP.NET Web Application (.NET Framework 4.7.2)
-Template = Web Forms.
+Template = Web Forms. (包含啟動頁)
 Authentication = No Authentication
 Add folders & core reference = Web Forms
-Advanced = Configure for HTTPS
+Advanced = (HTTPS)
 
 ### WebForm2
 ASP.NET Web Application (.NET Framework 4.7.2)
-Template = Empty.
+Template = Empty. (無啟動頁)
 Authentication = No Authentication
 Add folders & core reference = None
-Advanced = Configure for HTTPS
+Advanced = (HTTPS)
 
 ### WebForm3
 ASP.NET Web Application (.NET Framework 4.7.2)
-Template = Empty.
+Template = Empty. (無啟動頁)
 Authentication = No Authentication
 Add folders & core reference = Web Forms
-Advanced = None
-傳統的 WebForm 網站(非MVC), 無啟動頁.
+Advanced = None (HTTP)
 
 ### WebForm4
 ASP.NET Web Application (.NET Framework 4.7.2)
-Template = Web Forms.
+Template = Web Forms. (包含啟動頁)
+Authentication = No Authentication
+Add folders & core reference = Web Forms
+Advanced = None (HTTP)
+
+### WebForm5
+ASP.NET Web Application (.NET Framework 4.8)
+Template = Web Forms + API. (包含啟動頁) 
 Authentication = No Authentication
 Add folders & core reference = Web Forms
 Advanced = None
-傳統的 WebForm 網站(非MVC), 包含啟動頁.
-Test with Http ok (No HTTPS)
-
+可與 WebForm4 比對差異
