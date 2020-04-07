@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ZLib",
     "\\ZLib\\ZLib"
   ],
-  "SelectedNode": "\\ZLib\\ZLib\\Class1.cs",
+  "SelectedNode": "\\.gitattributes",
   "PreviewInSolutionExplorer": false
 }
