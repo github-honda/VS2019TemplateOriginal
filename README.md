@@ -11,6 +11,7 @@
 ### LibNetStd20
 - **Class Library (.NET Standard)**
 - A class library that targets .NET Standard 2.0
+- 20200508 Add multiple target frameworks sample.
 
 ### WindowsService1
 - **Windows Service (.NET Framework 4.7.2)**
